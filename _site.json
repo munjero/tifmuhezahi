@@ -1,0 +1,12 @@
+{
+  "title": "la viz pe bu'u lo tifmu'eza'i li'u",
+  "url": "https://that.world/~tifmuhezahi",
+  "baseUrl": "/~tifmuhezahi/",
+  "author": "Wei Tang",
+  "email": "wei@that.world",
+  "sitemap": {
+    "enable": true,
+    "depth": 1
+  }
+}
+  
